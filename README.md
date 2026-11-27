@@ -10,3 +10,7 @@ I am now learning lower-level programming languages such as C at University of I
 * HTML/CSS/JS
 * MySQL
 * Google Suite
+
+### Featured projects
+* [HallwayNav](https://github.com/shawnp07/HallwayNav) - An early version of a webapp used for finding a path from a school's front entrance to a desired classroom.
+* [HoMJournal](https://github.com/shawnp07/HallwayNav) - A webapp used for people who want to focus on keeping track of their habits of mind.
